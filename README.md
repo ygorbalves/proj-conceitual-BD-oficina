@@ -12,11 +12,3 @@ Sistema de controle e gerenciamento de execução de ordens de serviço em uma o
 - Os mecânicos possuem código, nome, endereço e especialidade;
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos. 
 
-# Criar queries SQL com as cláusulas abaixo: 
-- Recuperações simples com SELECT Statement;
-- Filtros com WHERE Statement;
-- Crie expressões para gerar atributos derivados;
-- Defina ordenações dos dados com ORDER BY;
-- Condições de filtros aos grupos – HAVING Statement;
-- Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados.
-  

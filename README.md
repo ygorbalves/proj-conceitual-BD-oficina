@@ -1,7 +1,8 @@
 # Projeto Conceitual de BD - Aplicação Oficina 
 Projeto conceitual de um BD para uma aplicação de Oficina mecânica. Atividade referente ao Bootcamp Ciência de dados - Unimed BH.
 Projeto desenvolvido utilizando MySQL Workbench.
-### Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica.
+#
+Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica.
 ### Escopo do Projeto:
 - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões periódicas;
 - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega;
